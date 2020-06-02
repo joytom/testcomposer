@@ -1,0 +1,21 @@
+{
+    "name": "joytom/testcomposer",
+    "description": "this is joytom test writecomposer",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "joytom",
+            "email": "joytom@composer.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "chuang\\": "src/chuang"
+        }
+    }
+}
