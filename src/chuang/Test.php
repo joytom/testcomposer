@@ -3,6 +3,6 @@ namespace chuang;
 class Test
 {
     public function ceshi(){
-        echo 123;
+        echo 4331;
     }
 }
