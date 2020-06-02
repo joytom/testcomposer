@@ -5,7 +5,7 @@
     "require": {
         "php": "^7.0"
     },
-    "license": "1.0.7",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "joytom",
