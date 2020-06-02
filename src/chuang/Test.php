@@ -3,6 +3,6 @@ namespace chuang;
 class Test
 {
     public function ceshi(){
-        echo 4331;
+        echo 'this is version 1.0.7';
     }
 }
